@@ -2,7 +2,7 @@
 
 > Status do projeto: Em Desenvolvimento
 
-Para rodar esse projeto na usa maquina, por favor Digite
+Para rodar esse projeto na usa maquina, por favor Digite:
 ```
-NPM INSTALL
+node app.js
 ```
